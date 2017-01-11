@@ -19,10 +19,9 @@
   - 業務経験がある：C#, PHP, cpp, SQL, Swift
   - 知っている：perl, Python
 
-- 自然言語日本語
-  - ネイティブ
-- 英語
-  - インターネットを利用の上読み書きができる
+- 自然言語
+  - 日本語（ネイティブ）
+  - 英語（インターネットを利用の上読み書きができる・TOEIC500台）
 
 ### OS・プラットフォーム・フレームワーク類
 
@@ -92,7 +91,6 @@
 
 - 試作/商用については意図的に非記載、ほぼ試作。
 - 類似関連案件はまとめている。
-
 - 2001-3年ごろ：多地点テレビ会議システム
   - 組み込みLinux(MontaVista), MPEG-2, SIP, NetFront
 - 2002年ごろ：PBXシステム
@@ -127,7 +125,7 @@
   - iOS, Android, Bluetooth, PhoneGap/Cordova, AWS, Java EE(Struts)
 - 2013-5年ごろ：ウェアラブル・位置測位関連R&D
   - Android Wear, Google Glass, NUI, BLE, iBeacon, Java EE
-  - このころやっとRESTful＋ajaxベースに
+  - このころやっとRESTful＋ajaxベースが定着
 - 2015-6年ごろ：介護系システム
   - Android, Java EE, BLE
 - 2016年ごろ：Web, IoT関連システム他（提案・調査活動が中心）
