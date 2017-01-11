@@ -6,7 +6,7 @@
 |---|-----|
 |Name|ようてん|
 |Blog|[ReDo](http://greety.sakura.ne.jp/redo/)|
-|SlideShare|http://www.slideshare.net/youten_redo/|
+|SlideShare|[youten_redo](http://www.slideshare.net/youten_redo/)|
 |Twitter|[@youten_redo](https://twitter.com/youten_redo)|
 
 ## スキル
@@ -42,8 +42,8 @@
 
 ### その他
 
-- ガジェオタ（VR中心）
-  - Cardboard/DK2/GearVR/Vive/Rift/PSVR/Daydream
+- ガジェオタ
+  - VRメイン：Cardboard/DK2/GearVR/Vive/Rift/PSVR/Daydream他
 - ROプレイヤー（元）
   - 騎士Wiki・B2HS元管理人
 
@@ -130,5 +130,5 @@
   - このころやっとRESTful＋ajaxベースに
 - 2015-6年ごろ：介護系システム
   - Android, Java EE, BLE
-- 2016年：Web, IoT関連システム他（提案・調査活動が中心）
+- 2016年ごろ：Web, IoT関連システム他（提案・調査活動が中心）
   - iOS, Android, AWS, Azure, Java EE(Seaser2)
