@@ -17,7 +17,7 @@
   - 自信がある：Java
   - 3年以上の経験がある：HTML類, JavaScript, C, Obj-c
   - 業務経験がある：C#, PHP, cpp, SQL, Swift
-  - 知っている：perl, Scala, Python, TypeScript, asm(x86)
+  - 知っている：perl, Python
 
 - 自然言語日本語
   - ネイティブ
@@ -38,7 +38,6 @@
 
 - プラットフォーム・フレームワーク類
   - 3年以上の経験がある：JavaEE
-  - 業務経験がある：AngularJS, Spring, Struts, Seasar2
   - 知っている：Unity
 
 ### その他
@@ -92,7 +91,7 @@
 職務: プログラマ/SE/プロジェクトリーダ/プロジェクトマネージャ
 
 - 試作/商用については意図的に非記載、ほぼ試作。
-- 類似関連案件はまとめているケースを含む。
+- 類似関連案件はまとめている。
 
 - 2001-3年ごろ：多地点テレビ会議システム
   - 組み込みLinux(MontaVista), MPEG-2, SIP, NetFront
@@ -115,7 +114,7 @@
 - 2009-10年ごろ：Androidサイネージシステム
   - Android, Armadiilo, WebKit, DLNA/UPnP, 独自アプリマーケット, OpenCV
 - 2010-11年ごろ：IP電話アプリ関連
-  - Android, SIP, UPnP, 擬似Push（Reverse HTTP/Commet）, OSGi
+  - Android, SIP, UPnP, OSGi
 - 2011年ごろ：タブレット向けデジタルカタログ/決済ライブラリ・システム
   - Android, Java EE
 - 2012年ごろ：IPテレビ電話・映像解析
@@ -132,4 +131,4 @@
 - 2015-6年ごろ：介護系システム
   - Android, Java EE, BLE
 - 2016年：Web, IoT関連システム他（提案・調査活動が中心）
-  - iOS, Android, AWS, Azure, Java EE(Seaser2), Arduino, RasPi
+  - iOS, Android, AWS, Azure, Java EE(Seaser2)
