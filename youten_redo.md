@@ -43,14 +43,12 @@
 
 - ガジェオタ
  - VRメイン：Cardboard/DK2/GearVR/Vive/Rift/PSVR/Daydream他
-- ROプレイヤー（元）
- - 騎士Wiki・B2HS元管理人
 
 ## 強み
 
 - Androidを中心とした組み込み・モバイルアーキテクチャ
-- 小規模（5-10人）プロジェクトを中心にプロジェクトリーダ・プロジェクトマネージャ経験多数
-- 新規業務分野・技術分野案件 提案＋PoC業務
+- 小規模（5-10人）プロジェクトのプロジェクトリーダ・プロジェクトマネージャ経験多数
+- 新規業務分野・技術分野案件の提案活動からPoC新規開拓
 
 ## やったことはないが興味があるもの
 
@@ -89,44 +87,44 @@
 
 職務: プログラマ/SE/プロジェクトリーダ/プロジェクトマネージャ
 
-- 試作/商用については意図的に非記載、ほぼ試作。
-- 類似関連案件はまとめている。
+- サービス検討・PoCを含む要件定義・基本設計工程、中・長期戦略での小規模試作・R&D協力業務の経験が主です。
+- 試作/商用については意図的に非記載としています。試作案件の比率が高いです。
+- 類似関連案件はまとめています。
 - 2001-3年ごろ：多地点テレビ会議システム
  - 組み込みLinux(MontaVista), MPEG-2, SIP, NetFront
-- 2002年ごろ：PBXシステム
+- 2002年ごろ：PBXシステム開発
  - VxWorks, H.323
-- 2003年ごろ：eコマースシステム
+- 2003年ごろ：eコマースシステム開発
  - i-mode, cHTML, Doja
-- 2004-5年ごろ：電子書籍端末
+- 2004-5年ごろ：電子書籍端末開発
  - μITron, WindowsCE, Macromedia Flash, SD-Binding, DirectDraw
-- 2006年ごろ：車載テレビ通話システム
+- 2006年ごろ：車載テレビ通話システム開発
  - Windows automotive, DirectShow, 3GPP
-- 2007-8年ごろ：レコメンドWebシステム
+- 2007-8年ごろ：レコメンドWebシステム開発
  - i-mode, iアプリ, DHTML, Java EE, 協調フィルタリング
-- 2007年ごろ：映像送受信システム
+- 2007年ごろ：映像送受信システム開発
  - DirectShow, IPv6
-- 2008年ごろ：決済システム
+- 2008年ごろ：決済システム開発
  - libusb, PaSoRi, OSGi
-- 2009年ごろ：デジタルサイネージシステム
+- 2009年ごろ：デジタルサイネージシステム開発
  - 組み込みLinux（Debian）, Armadillo, BeagleBoard, NetFront, OBEX, zinnia, OSGi, ffmpeg
-- 2009-10年ごろ：Androidサイネージシステム
- - Android, Armadiilo, WebKit, DLNA/UPnP, 独自アプリマーケット, OpenCV
-- 2010-11年ごろ：IP電話アプリ関連
+- 2009-10年ごろ：Androidサイネージシステム開発
+ - Android, Armadillo, WebKit, DLNA/UPnP, 独自アプリマーケット, OpenCV
+- 2010年ごろ：IP電話アプリ関連開発
  - Android, SIP, UPnP, OSGi
 - 2011年ごろ：タブレット向けデジタルカタログ/決済ライブラリ・システム
  - Android, Java EE
-- 2012年ごろ：IPテレビ電話・映像解析
- - Android, STB, WebView/WebKit, ffmpeg/libav, OpenCV
-- 2013年ごろ：マルチプラットフォームアプリ自動生成システム
+- 2012年ごろ：IPテレビ電話STB開発・映像解析研究
+ - Android, WebView/WebKit, ffmpeg/libav, OpenCV
+- 2013年ごろ：マルチプラットフォームアプリ自動生成システム開発
  - HTML5, Android, iOS, FxOS, TIZEN
-- 2013年ごろ：MDM・ファイル配信システム
+- 2013年ごろ：MDM・ファイル配信システム開発
  - iOS, Android, openssl
-- 2013年ごろ：業務用・販促キャンペーン用・車載連携用アプリ・システム多数
+- 2013年ごろ：業務用・販促キャンペーン用・車載連携用アプリ・システム開発多数
  - iOS, Android, Bluetooth, PhoneGap/Cordova, AWS, Java EE(Struts)
-- 2013-5年ごろ：ウェアラブル・位置測位関連R&D
+- 2014年ごろ：ウェアラブル・位置測位関連R&D
  - Android Wear, Google Glass, NUI, BLE, iBeacon, Java EE
-  - このころやっとRESTful＋ajaxベースが定着
-- 2015-6年ごろ：介護系システム
+- 2015年ごろ：介護系システム開発
  - Android, Java EE, BLE
-- 2016年ごろ：Web, IoT関連システム他（提案・調査活動が中心）
+- 2016年ごろ：Web, IoT関連システム試作・提案業務
  - iOS, Android, AWS, Azure, Java EE(Seaser2)
