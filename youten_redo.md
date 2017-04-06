@@ -73,6 +73,7 @@
 ### 商業
 
 - ANDROID2.3 ONLY HACKS https://www.amazon.co.jp/dp/4822284719
+- VRエンジニア養成読本 https://www.amazon.co.jp/dp/4774188948
 
 ### 同人
 
@@ -80,10 +81,12 @@
  - C90 アンドロイドアカデミア：Android100機種サポートしたいけど10機種しか試験するお金がありませんでした2016夏
  - C88 Android Masters!：Unity 5.1で入門するVRアプリ開発
  - C87 Android実践プログラミング：Googleに従わない方が幸せになるかもしれない7つのケース
-
+- ReDo（自サークル）
+ - 技術書典2 VRコンテンツのつくりかた https://github.com/youten/howto-create-vr-contents
+ 
 ## 職務経歴
 
-### 2001/04 - : NTTデータMSE
+### 2001/04 - 2017/06（予定）: NTTデータMSE
 
 職務: プログラマ/SE/プロジェクトリーダ/プロジェクトマネージャ
 
@@ -128,3 +131,5 @@
  - Android, Java EE, BLE
 - 2016年ごろ：Web, IoT関連システム試作・提案業務
  - iOS, Android, AWS, Azure, Java EE(Seaser2)
+- 2017年ごろ：ロボット技術調査
+ - ROS, OpenCV
