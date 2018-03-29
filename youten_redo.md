@@ -42,7 +42,7 @@
 ### その他
 
 - ガジェット好き
- ?- VRがメイン：Cardboard/DK2/GearVR/Vive/Rift/PSVR/Daydream他
+- VRがメイン：Cardboard/DK2/GearVR/Vive/Rift/PSVR/Daydream他
 
 ## 強み
 
