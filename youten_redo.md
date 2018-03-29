@@ -78,7 +78,7 @@
   - ANDROID2.3 ONLY HACKS https://www.amazon.co.jp/dp/4822284719
   - VRエンジニア養成読本 https://www.amazon.co.jp/dp/4774188948
 - メディアライター
- ?- PANORA VR http://panora.tokyo/?s=youten
+  - PANORA VR http://panora.tokyo/?s=youten
 
 ### 同人
 
@@ -87,7 +87,7 @@
   - C88 Android Masters!：Unity 5.1で入門するVRアプリ開発
   - C90 アンドロイドアカデミア：Android100機種サポートしたいけど10機種しか試験するお金がありませんでした2016夏
   - C92 週末なにしてますか？忙しいですか？原稿手伝ってもらっていいですか？：Tango VPSとロケーションベースAR
-  - C93 Androidモダンプログラミング:ARCore入門
+  - C93 Androidモダンプログラミング：ARCore入門
 - サークル：れいぞうこのドア（自サークル）
   - 技術書典2 VRコンテンツのつくりかた https://github.com/youten/howto-create-vr-contents
   - 技術書典3 VRコンテンツのつくりかた2 https://github.com/youten/howto-create-vr-contents2
