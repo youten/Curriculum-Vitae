@@ -91,7 +91,8 @@
 - サークル：れいぞうこのドア（自サークル）
   - 技術書典2 VRコンテンツのつくりかた https://github.com/youten/howto-create-vr-contents
   - 技術書典3 VRコンテンツのつくりかた2 https://github.com/youten/howto-create-vr-contents2
- 
+  - 技術書典4 VRコンテンツのつくりかた3 https://github.com/youten/howto-create-vr-contents3
+
 ## 職務経歴
 
 ### 2001/04 - 2017/06: NTTデータMSE
