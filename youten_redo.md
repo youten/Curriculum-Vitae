@@ -37,7 +37,7 @@
 
 - プラットフォーム・フレームワーク類
   - 3年以上の経験がある：JavaEE
-  - 知っている：Unity
+  - 業務経験がある：Unity
 
 ### その他
 
@@ -85,6 +85,7 @@
   - 技術書典2 VRコンテンツのつくりかた https://github.com/youten/howto-create-vr-contents
   - 技術書典3 VRコンテンツのつくりかた2 https://github.com/youten/howto-create-vr-contents2
   - 技術書典4 VRコンテンツのつくりかた3 https://github.com/youten/howto-create-vr-contents3
+  - 技術書典5 VRコンテンツのつくりかた4 https://github.com/youten/howto-create-vr-contents4
 
 ## 職務経歴
 
@@ -136,4 +137,9 @@
 - 2017年ごろ：ロボット技術調査
   - ROS, OpenCV
 
-### 2018/06 - 某事業会社
+### 2018/06 - 現在: Wright Flyer Live Entertainment
+
+職務： エンジニア
+
+- 2018年ごろ:3Dアバター作成・配信アプリ REALITY Avatar開発
+  - iOS, Android, Unity, RTMP, Face Tracking
