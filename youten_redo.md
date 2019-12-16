@@ -141,5 +141,5 @@
 
 職務： エンジニア
 
-- 2018年ごろ:3Dアバター作成・配信アプリ REALITY Avatar開発
+- 2018年～:3Dアバター作成・配信アプリ REALITY Avatar/REALITY開発
   - iOS, Android, Unity, RTMP, Face Tracking
