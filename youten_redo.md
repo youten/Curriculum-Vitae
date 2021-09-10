@@ -137,7 +137,7 @@
 - 2017年ごろ：ロボット技術調査
   - ROS, OpenCV
 
-### 2018/06 - 現在: Wright Flyer Live Entertainment
+### 2018/06 - 現在: Wright Flyer Live Entertainment -> REALITY（2020/10/01 社名変更）
 
 職務： エンジニア
 
