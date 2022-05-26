@@ -139,7 +139,7 @@
 
 ### 2018/06 - 現在: Wright Flyer Live Entertainment -> REALITY（2020/10/01 社名変更）
 
-職務： エンジニア
+職務： エンジニア/エンジニアリングマネージャー
 
-- 2018年～:3Dアバター作成・配信アプリ REALITY Avatar/REALITY開発
+- 2018年～:3Dアバター作成・配信アプリ REALITY/REALITY Avatar開発
   - iOS, Android, Unity, RTMP, Face Tracking
